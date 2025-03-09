@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/crybaby-photo/static/css/main.1c5f0cea.css",
-    "main.js": "/crybaby-photo/static/js/main.e0cebc1d.js",
+    "main.css": "/crybaby-photo/static/css/main.5373362a.css",
+    "main.js": "/crybaby-photo/static/js/main.3245ca1f.js",
     "static/js/453.ea04bd77.chunk.js": "/crybaby-photo/static/js/453.ea04bd77.chunk.js",
+    "static/media/logo.png": "/crybaby-photo/static/media/logo.9f2bc2b3363ab2a16ffb.png",
     "index.html": "/crybaby-photo/index.html",
-    "main.1c5f0cea.css.map": "/crybaby-photo/static/css/main.1c5f0cea.css.map",
-    "main.e0cebc1d.js.map": "/crybaby-photo/static/js/main.e0cebc1d.js.map",
+    "main.5373362a.css.map": "/crybaby-photo/static/css/main.5373362a.css.map",
+    "main.3245ca1f.js.map": "/crybaby-photo/static/js/main.3245ca1f.js.map",
     "453.ea04bd77.chunk.js.map": "/crybaby-photo/static/js/453.ea04bd77.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c5f0cea.css",
-    "static/js/main.e0cebc1d.js"
+    "static/css/main.5373362a.css",
+    "static/js/main.3245ca1f.js"
   ]
 }
