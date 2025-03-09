@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/crybaby-photo/static/css/main.528883a9.css",
-    "main.js": "/crybaby-photo/static/js/main.71ec3771.js",
+    "main.css": "/crybaby-photo/static/css/main.1c5f0cea.css",
+    "main.js": "/crybaby-photo/static/js/main.e0cebc1d.js",
     "static/js/453.ea04bd77.chunk.js": "/crybaby-photo/static/js/453.ea04bd77.chunk.js",
     "index.html": "/crybaby-photo/index.html",
-    "main.528883a9.css.map": "/crybaby-photo/static/css/main.528883a9.css.map",
-    "main.71ec3771.js.map": "/crybaby-photo/static/js/main.71ec3771.js.map",
+    "main.1c5f0cea.css.map": "/crybaby-photo/static/css/main.1c5f0cea.css.map",
+    "main.e0cebc1d.js.map": "/crybaby-photo/static/js/main.e0cebc1d.js.map",
     "453.ea04bd77.chunk.js.map": "/crybaby-photo/static/js/453.ea04bd77.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.528883a9.css",
-    "static/js/main.71ec3771.js"
+    "static/css/main.1c5f0cea.css",
+    "static/js/main.e0cebc1d.js"
   ]
 }
