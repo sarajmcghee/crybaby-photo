@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/crybaby-photo/static/css/main.bfec1220.css",
-    "main.js": "/crybaby-photo/static/js/main.8855e7a2.js",
+    "main.css": "/crybaby-photo/static/css/main.0ae65b55.css",
+    "main.js": "/crybaby-photo/static/js/main.6040eb2d.js",
     "static/js/453.ea04bd77.chunk.js": "/crybaby-photo/static/js/453.ea04bd77.chunk.js",
     "static/media/logo.png": "/crybaby-photo/static/media/logo.9f2bc2b3363ab2a16ffb.png",
     "static/media/image7.png": "/crybaby-photo/static/media/image7.947c625ee9e0b96cdaa7.png",
@@ -12,12 +12,12 @@
     "static/media/image6.jpeg": "/crybaby-photo/static/media/image6.683adb4b8a46b8a2108d.jpeg",
     "static/media/background.jpg": "/crybaby-photo/static/media/background.2247b45ef6b02270cd25.jpg",
     "index.html": "/crybaby-photo/index.html",
-    "main.bfec1220.css.map": "/crybaby-photo/static/css/main.bfec1220.css.map",
-    "main.8855e7a2.js.map": "/crybaby-photo/static/js/main.8855e7a2.js.map",
+    "main.0ae65b55.css.map": "/crybaby-photo/static/css/main.0ae65b55.css.map",
+    "main.6040eb2d.js.map": "/crybaby-photo/static/js/main.6040eb2d.js.map",
     "453.ea04bd77.chunk.js.map": "/crybaby-photo/static/js/453.ea04bd77.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfec1220.css",
-    "static/js/main.8855e7a2.js"
+    "static/css/main.0ae65b55.css",
+    "static/js/main.6040eb2d.js"
   ]
 }
